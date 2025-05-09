@@ -1,4 +1,5 @@
 This is **Enigma** 
+(reflector without 3rd, 2nd, 1st rotors)
 
 Work with only English Alpabet
 _____________
