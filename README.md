@@ -1,1 +1,3 @@
-This is Enigma by Dru91ce (SuzumiHino)
+This is **Enigma** 
+
+_by Dru91ce (SuzumiHino)_
